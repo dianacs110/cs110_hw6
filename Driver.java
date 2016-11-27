@@ -7,7 +7,7 @@ Square area = new Square(10);
 Rectangle recarea = new Rectangle(2,50);
 System.out.println(area.getArea());
 System.out.println(recarea.getArea());
-System.out.println(Math.factorial((int)16));
-System.out.println(Math.factorial1((int)10.6));
+System.out.println(Math.factorial((int)15.6));
+System.out.println(Math.factorial1((int)15.6));
 }
 }
