@@ -8,6 +8,6 @@ Rectangle recarea = new Rectangle(50,80);
 System.out.println(area.getArea());
 System.out.println(recarea.getArea());
 System.out.println(Math.factorial((int)15.6));
-System.out.println(Math.factorial1((int)15.6));
+System.out.println(Math.factorialLoop((int)15.6));
 }
 }
