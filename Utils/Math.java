@@ -7,7 +7,7 @@ public class Math{
     return n*factorial(n-1);
     }
  
- public static int factorial1(int n){
+ public static int factorialLoop(int n){
         int f = 1;
         for(int i = 1; i<=n; i++){
             f *= i;
