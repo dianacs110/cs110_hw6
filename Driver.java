@@ -3,8 +3,8 @@ import Shapes.Rectangle;
 import Utils.Math;
 public class Driver{
 public static void main(String[] args){
-Square area = new Square(10);
-Rectangle recarea = new Rectangle(2,50);
+Square area = new Square(100);
+Rectangle recarea = new Rectangle(50,80);
 System.out.println(area.getArea());
 System.out.println(recarea.getArea());
 System.out.println(Math.factorial((int)15.6));
